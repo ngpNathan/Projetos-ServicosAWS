@@ -2,21 +2,21 @@
 
 return [
     's3' => [
-        'key' => 'AKIAY23PGVF7AV3N33OT',
-        'secret' => '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',  
-        'bucket' => 'nathan-ambisis-cliente',
+        'key' => '#############',
+        'secret' => '###########',  
+        'bucket' => '##############',
     ],
     'iam' => [
-        'key' => 'AKIAY23PGVF7AV3N33OT',
-        'secret' => '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',  
+        'key' => '############',
+        'secret' => '###############',  
     ],
     'sns' => [
-        'key' => 'AKIAY23PGVF7AV3N33OT',
-        'secret' => '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',  
+        'key' => '###########',
+        'secret' => '#############',  
     ],
     'ses' => [
-        'key' => 'AKIAY23PGVF7AV3N33OT',
-        'secret' => '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',  
+        'key' => '############',
+        'secret' => '#############',  
     ],
     'region' => 'sa-east-1',
     'version' => 'latest'
